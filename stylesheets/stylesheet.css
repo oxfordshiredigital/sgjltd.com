@@ -30,7 +30,7 @@ background: linear-gradient(to right,  rgba(224,224,224,1) 0%,rgba(242,242,242,1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#bababa',GradientType=1 ); /* IE6-9 */
 }
 
-.stripe h2 {color: grey; margin-top: -3px; font-size: 12px; font-weight: 900;}
+.stripe h2 {color: #707070; margin-top: -3px; font-size: 12px; font-weight: 900;}
 
 .stripe:first-of-type { top: 40px;}
 .stripe:nth-of-type(2) { top: 60px;}
