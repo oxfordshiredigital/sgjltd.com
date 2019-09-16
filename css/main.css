@@ -718,3 +718,7 @@ button {
 }
 
 #faq h3:hover {color: grey; cursor: pointer;}
+
+.form-control {
+    margin: 10px 0 !important;
+}
