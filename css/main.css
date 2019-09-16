@@ -722,3 +722,7 @@ button {
 .form-control {
     margin: 10px 0 !important;
 }
+
+textarea {
+height: 170px;
+}
